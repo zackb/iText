@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/39/trunk/src
+END
+ZBSMSConversation.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/39/trunk/src/ZBSMSConversation.h
+END
+ZBHeaderTextCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/39/trunk/src/ZBHeaderTextCell.h
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/12/trunk/src/main.m
+END
+ZBSeparatorCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/39/trunk/src/ZBSeparatorCell.h
+END
+ZBNoteCanvas.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/39/trunk/src/ZBNoteCanvas.h
+END
+ZBHeaderTextCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/39/trunk/src/ZBHeaderTextCell.m
+END
+ZBSMSConversation.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/39/trunk/src/ZBSMSConversation.m
+END
+ZBVariableCellColumn.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/39/trunk/src/ZBVariableCellColumn.h
+END
+ZBSourceTableView.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/39/trunk/src/ZBSourceTableView.h
+END
+ZBNote.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/41/trunk/src/ZBNote.h
+END
+ZBSeparatorCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/39/trunk/src/ZBSeparatorCell.m
+END
+ZBSMSController.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/42/trunk/src/ZBSMSController.h
+END
+ZBNoteCanvas.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/39/trunk/src/ZBNoteCanvas.m
+END
+ZBSMSMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/39/trunk/src/ZBSMSMessage.h
+END
+ZBiPhoneDatabase.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/42/trunk/src/ZBiPhoneDatabase.h
+END
+ZBVariableCellColumn.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/39/trunk/src/ZBVariableCellColumn.m
+END
+ZBSourceTableView.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/39/trunk/src/ZBSourceTableView.m
+END
+ZBNoteController.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/39/trunk/src/ZBNoteController.h
+END
+ZBNote.m
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/41/trunk/src/ZBNote.m
+END
+ZBSMSController.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/42/trunk/src/ZBSMSController.m
+END
+ZBSMSMessage.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/39/trunk/src/ZBSMSMessage.m
+END
+ZBiPhoneDatabase.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/42/trunk/src/ZBiPhoneDatabase.m
+END
+ZBNoteController.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/42/trunk/src/ZBNoteController.m
+END
+ZBController.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/39/trunk/src/ZBController.h
+END
+ZBBalloonChat.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/39/trunk/src/ZBBalloonChat.h
+END
+ZBImageTextCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/39/trunk/src/ZBImageTextCell.h
+END
+ZBController.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/42/trunk/src/ZBController.m
+END
+ZBBalloonChat.m
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/42/trunk/src/ZBBalloonChat.m
+END
+ZBImageTextCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/39/trunk/src/ZBImageTextCell.m
+END

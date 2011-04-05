@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>iText Updates</title>
+    <link>http://zackbartel.com/project/itext/</link>
+    <description>Development Versions</description>
+    <language>en</language>
+     <item>
+      <title>Version 0.3.1</title>
+      <description></description>
+      <sparkle:releaseNotesLink>http://zackbartel.com/project/itext/itext.html</sparkle:releaseNotesLink>
+      <pubDate>Sun, 23 March 2008 22:00:00 +0000</pubDate>
+      <enclosure sparkle:shortVersionString="0.3.1" sparkle:version="31" url="http://zackbartel.com/project/itext/iText.zip" length="969618" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>

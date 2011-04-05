@@ -1,0 +1,47 @@
+8
+
+dir
+39
+https://zackbartel@itext-iphone.googlecode.com/svn/trunk/Sparkle.framework/Versions/A/Resources/no.lproj
+https://zackbartel@itext-iphone.googlecode.com/svn
+
+
+
+2008-03-24T00:40:15.485702Z
+9
+zackbartel
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+de534348-1149-0410-ac31-d57388d135bf
+
+SUAutomaticUpdateAlert.nib
+dir
+
+SUUpdateAlert.nib
+dir
+
+Sparkle.strings
+file
+
+
+
+
+2008-04-04T04:37:38.000000Z
+8345aff79d777cab1bf3da6c06eb1a5b
+2008-03-24T00:40:15.485702Z
+9
+zackbartel
+has-props
+
